@@ -56,12 +56,12 @@
         "source": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
     },
     {
-        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
-        "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\13fc154bb6ccef0b2c55e3d5dd065c9a\\material-1.2.0\\res\\color\\mtrl_chip_text_color.xml"
-    },
-    {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_surface_emphasis_high_type.xml.flat",
         "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\13fc154bb6ccef0b2c55e3d5dd065c9a\\material-1.2.0\\res\\color\\material_on_surface_emphasis_high_type.xml"
+    },
+    {
+        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
+        "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\13fc154bb6ccef0b2c55e3d5dd065c9a\\material-1.2.0\\res\\color\\mtrl_chip_text_color.xml"
     },
     {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_show_motion_spec.xml.flat",
@@ -88,24 +88,24 @@
         "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\c6c9f2ba1051a6cd87625b33904019b5\\appcompat-1.2.0\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\c6c9f2ba1051a6cd87625b33904019b5\\appcompat-1.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\c6c9f2ba1051a6cd87625b33904019b5\\appcompat-1.2.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\c6c9f2ba1051a6cd87625b33904019b5\\appcompat-1.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
         "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\13fc154bb6ccef0b2c55e3d5dd065c9a\\material-1.2.0\\res\\color\\mtrl_chip_background_color.xml"
     },
     {
-        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
-        "source": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
-    },
-    {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
         "source": "C:\\Users\\Syahrul\\.gradle\\caches\\transforms-2\\files-2.1\\13fc154bb6ccef0b2c55e3d5dd065c9a\\material-1.2.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
     },
     {
         "merged": "E:\\SEMESTER 5\\praktikum Mobile Programming\\TheMovieDB-master\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
